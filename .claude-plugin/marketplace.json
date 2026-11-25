@@ -1,0 +1,9 @@
+{
+  "name": "claude-starship-console",
+  "owner": { "name": "Jon Duffy" },
+  "description": "A sci-fi console theme for the Claude desktop app with live readouts, plus the data feed, guards and call lights behind it.",
+  "plugins": [
+    { "name": "terminal-looks", "source": "./terminal-looks" },
+    { "name": "command-deck", "source": "./command-deck" }
+  ]
+}

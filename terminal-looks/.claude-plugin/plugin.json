@@ -1,0 +1,11 @@
+{
+  "name": "terminal-looks",
+  "version": "0.1.0",
+  "description": "Two desktop looks, Catppuccin and Starship console, switched with /look",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Jon Duffy"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/JonDuffy/claude-starship-console"
+}
