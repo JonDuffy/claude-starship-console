@@ -9,6 +9,19 @@ Two mods for the Claude desktop app:
 
 terminal-looks works on its own. command-deck adds the extra blocks and features.
 
+<table>
+  <tr>
+    <td><img src="docs/console-dark-alert.png" alt="The console column in dark mode, in alert because a branch check failed" width="300"></td>
+    <td><img src="docs/console-light-nominal.png" alt="The console column in light mode, nominal, with Claude working" width="300"></td>
+  </tr>
+  <tr>
+    <td>Dark mode: a check failed and a session needs you</td>
+    <td>Light mode: all nominal, Claude working</td>
+  </tr>
+</table>
+
+The right-hand column of the Starship console, drawn by the mod's own scene code with made-up demo data. In the app it sits behind the chat, at the right edge of the window.
+
 ## Requirements
 
 - **The Claude desktop app** (Code tab) on **macOS**. Themes draw only in the desktop and mobile apps, not in the terminal. The readouts run macOS commands: `df`, `ps`, `sysctl`, `pgrep` and `date`.
