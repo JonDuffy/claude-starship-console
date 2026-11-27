@@ -1,7 +1,15 @@
 {
   "name": "terminal-looks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Two desktop looks, Catppuccin and Starship console, switched with /look",
+  "keywords": [
+    "theme",
+    "catppuccin",
+    "starship",
+    "console",
+    "dark-mode",
+    "sci-fi"
+  ],
   "types": "./types/index.d.ts",
   "author": {
     "name": "Jon Duffy"
